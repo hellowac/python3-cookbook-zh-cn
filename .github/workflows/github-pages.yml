@@ -17,10 +17,6 @@ jobs:
         with:
           python-version: "3.11"
       - name: 安装依赖1
-        # 安装当前的项目作为一个包
-        run: |
-          pip install .
-      - name: 安装依赖2
         run: |
           pip install -r requirements_.txt
       - name: Sphinx 构建
