@@ -1,18 +1,18 @@
 # PIL
-Pillow
-greenlet
-gunicorn
-oauthlib
-paho-mqtt
-paramiko
-psycopg2
-pycrypto
-pytz
-tzlocal
-redis
-requests
-requests-oauthlib
-whitenoise
-openpyxl
+# Pillow
+# greenlet
+# gunicorn
+# oauthlib
+# paho-mqtt
+# paramiko
+# psycopg2
+# pycrypto
+# pytz
+# tzlocal
+# redis
+# requests
+# requests-oauthlib
+# whitenoise
+# openpyxl
 sphinx
 furo
